@@ -1,1 +1,3 @@
 This is the file2 in the branch "feature1"
+
+Bug was fixed successfully
