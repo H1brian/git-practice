@@ -1,3 +1,6 @@
 This is the new file number 1
 
 bugFixfile1 was fixed
+
+
+confirmed by main
